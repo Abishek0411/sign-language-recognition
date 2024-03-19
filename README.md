@@ -1,8 +1,8 @@
-#Sign Language Detection using Deep Learning
+<h1>Sign Language Detection using Deep Learning</h1>
 
 Sign Language Detection using Deep Learning is a project aimed at bridging the communication gap for individuals with hearing impairments by providing a robust and efficient system for real-time sign language recognition. Leveraging the power of deep learning techniques, this project utilizes Python-based code to detect and interpret hand gestures representing various signs in sign language.
 
-##Main Features:
+<h2>Main Features:</h2>
 
 Real-time Detection: The system is capable of real-time detection of hand gestures captured through a webcam, enabling seamless communication without delays.
 
@@ -14,11 +14,11 @@ Easy Customization: Developers can easily extend the system by adding additional
 
 Model Training: The system incorporates Google's Teachable Machine for training the deep learning model. By scanning numerous images of sign languages with hand gestures, the model learns to accurately classify and interpret the gestures in real-time.
 
-##Data Collection:
+<h2>Data Collection:</h2>
 
 In addition to using pre-collected data, developers have the option to manually collect data using the provided code snippet. This allows for the expansion of the dataset to include a broader range of sign gestures, enhancing the accuracy and versatility of the recognition system.
 
-##Future Scope:
+<h2>Future Scope:</h2>
 
 The Sign Language Detection project has significant potential for further development and enhancement. Future iterations could include:
 
